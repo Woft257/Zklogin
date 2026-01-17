@@ -15,5 +15,5 @@ fi
 echo "zkey file:"
 ls -lh "$ZKEY"
 
-exec /app/zklogin_prover
+exec /app/run.prover.sh
 
